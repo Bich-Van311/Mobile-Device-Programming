@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "214158607395",
+    "firebase_url": "https://uth-todo-week-05-default-rtdb.firebaseio.com",
+    "project_id": "uth-todo-week-05",
+    "storage_bucket": "uth-todo-week-05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214158607395:android:2f17ff34d56e834e4d9d96",
+        "android_client_info": {
+          "package_name": "com.example.uth_todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214158607395-cok8h7cm2e0qnrf961s3evoqv7gqlr8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5xiq795MaeNNsw0l71zWa6h99M2pkzGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214158607395-cok8h7cm2e0qnrf961s3evoqv7gqlr8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214158607395-b979da0eblrbb4rrnn3viv3sbtu7iard.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uthTodoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
